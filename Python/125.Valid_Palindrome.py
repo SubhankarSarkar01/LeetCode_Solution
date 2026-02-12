@@ -1,4 +1,4 @@
-# -- 125. Valid Palindrome-- 
+# -- 125. Valid Palindrome -- 
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
