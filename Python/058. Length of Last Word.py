@@ -1,4 +1,4 @@
-# ----58. Length of Last Word----
+# ----58. Length of Last Word ----
 
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
