@@ -1,4 +1,4 @@
-# -- 5. Longest Palindromic Substring --
+# -- 5. Longest Palindromic Substring  --
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         res = ""
