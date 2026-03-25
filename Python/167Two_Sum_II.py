@@ -1,4 +1,4 @@
-# QS : Two Sum II - Input Array Is Sorted
+# QS : Two Sum II - Input Array Is Sorted --
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         numbers.sort()
