@@ -1,16 +1,7 @@
 #---- 154. Find Minimum in Rotated Sorted Array II -----
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        """
-        Find the minimum element in a rotated sorted array that may contain duplicates.
-        Uses binary search to achieve O(log n) average time complexity.
-      
-        Args:
-            nums: A rotated sorted array that may contain duplicate elements
-          
-        Returns:
-            The minimum element in the array
-        """
+       
         # Initialize binary search boundaries
         left = 0
         right = len(nums) - 1
